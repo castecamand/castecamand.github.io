@@ -1,5 +1,6 @@
 {
   "folder": "_posts/",
-  "template": "⚙️ Meta/Templates/NewBlogPost",
-  "autorun": true
+  "template": "Meta/Templates/NewBlogPost",
+  "autorun": true,
+  "format": "YYYY-MM-DD-"
 }
