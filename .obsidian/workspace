@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "3bfb922b122939e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "018bdad4ab8f929a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "about.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e90e445a7cb2bc24",
+    "type": "split",
+    "children": [
+      {
+        "id": "d71079ccebf03a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea3bfc6100e482d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "265865a8ae5d9156",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3feb659cce072d16",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e80dd158c3c6a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b168db9038872070",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "018bdad4ab8f929a",
+  "lastOpenFiles": [
+    "about.md",
+    "_posts/2022-06-28.md",
+    "_site/assets/minima-social-icons.svg",
+    "⚙️ Meta/Templates/NewBlogPost.md",
+    "_posts/2022-06-28-welcome-to-jekyll.md",
+    "README.md",
+    "_posts/Untitled.md",
+    "⚙️ Meta.md",
+    "202206282043.md"
+  ]
+}
