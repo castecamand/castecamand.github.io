@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta/Templates/NewBlogPost.md",
+            "file": "_posts/2022-06-29-Story introducction.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Templates/NewBlogPost.md",
+                "file": "_posts/2022-06-29-Story introducction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,8 +79,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "cab1fd91f7301b76",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,15 +98,15 @@
   },
   "active": "018bdad4ab8f929a",
   "lastOpenFiles": [
-    "Meta/Templates/NewBlogPost.md",
-    "about.md",
-    "clases de Inglés.jpg",
-    "_posts/2022-06-28-.md",
-    "_posts/2022-06-29-.md",
-    "_posts/2022-06-28-welcome-to-jekyll.md",
+    "_posts/2022-06-29-Story introducction.md",
     "resume/CV.md",
-    "_posts/Untitled.md",
-    "_posts/2022-06-28.md",
-    "README.md"
+    "about.md",
+    "README.md",
+    "Meta/Templates/NewBlogPost.md",
+    "_posts/2022-06-28-.md",
+    "_posts/2022-06-28-welcome-to-jekyll.md",
+    "_posts/2022-06-28-welcome-to-jekyll 1.md",
+    "clases de Inglés.jpg",
+    "_posts/Untitled.md"
   ]
 }
