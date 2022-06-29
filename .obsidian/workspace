@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-06-28-Learning.md",
+            "file": "Meta/Templates/NewBlogPost.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-06-28-Learning.md",
+                "file": "Meta/Templates/NewBlogPost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "018bdad4ab8f929a",
   "lastOpenFiles": [
-    "_posts/2022-06-28-Learning.md",
+    "Meta/Templates/NewBlogPost.md",
+    "about.md",
+    "clases de Inglés.jpg",
+    "_posts/2022-06-28-.md",
     "_posts/2022-06-29-.md",
     "_posts/2022-06-28-welcome-to-jekyll.md",
     "resume/CV.md",
-    "about.md",
     "_posts/Untitled.md",
-    "Meta/Templates/NewBlogPost.md",
     "_posts/2022-06-28.md",
-    "README.md",
-    "⚙️ Meta/Templates/NewBlogPost.md"
+    "README.md"
   ]
 }
