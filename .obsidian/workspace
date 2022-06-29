@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meta/Templates/NewBlogPost.md",
+            "file": "resume/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Templates/NewBlogPost.md",
+                "file": "resume/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "018bdad4ab8f929a",
   "lastOpenFiles": [
+    "resume/Untitled.md",
+    "about.md",
+    "_posts/2022-06-29-.md",
+    "_posts/Untitled.md",
     "Meta/Templates/NewBlogPost.md",
     "_posts/2022-06-28-.md",
     "_posts/2022-06-28.md",
     "_posts/2022-06-28-welcome-to-jekyll.md",
-    "about.md",
     "README.md",
-    "⚙️ Meta/Templates/NewBlogPost.md",
-    "Untitled.md",
-    "_site/assets/minima-social-icons.svg",
-    "_posts/Untitled.md"
+    "⚙️ Meta/Templates/NewBlogPost.md"
   ]
 }
