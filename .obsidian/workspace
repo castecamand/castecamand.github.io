@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resume/Untitled.md",
+            "file": "_posts/2022-06-28-Learning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume/Untitled.md",
+                "file": "_posts/2022-06-28-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   },
   "active": "018bdad4ab8f929a",
   "lastOpenFiles": [
-    "resume/Untitled.md",
-    "about.md",
+    "_posts/2022-06-28-Learning.md",
     "_posts/2022-06-29-.md",
+    "_posts/2022-06-28-welcome-to-jekyll.md",
+    "resume/CV.md",
+    "about.md",
     "_posts/Untitled.md",
     "Meta/Templates/NewBlogPost.md",
-    "_posts/2022-06-28-.md",
     "_posts/2022-06-28.md",
-    "_posts/2022-06-28-welcome-to-jekyll.md",
     "README.md",
     "⚙️ Meta/Templates/NewBlogPost.md"
   ]
