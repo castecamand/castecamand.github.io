@@ -25,5 +25,5 @@ In a way this blog is a a way to share these stories and tales, and to let peopl
 
 You can also find me here:
 
-- Linkedin: https://www.linkedin.com/in/andrés-castellanos-camacho-6560771b1/
+- Linkedin: <https://www.linkedin.com/in/andrés-castellanos-camacho-6560771b1/>
 - Instagram: andrescastellanoscamacho
