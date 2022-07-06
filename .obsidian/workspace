@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "About me - Sobre mi.md",
+            "file": "Info/CV.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About me - Sobre mi.md",
+                "file": "Info/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "018bdad4ab8f929a",
   "lastOpenFiles": [
-    "About me - Sobre mi.md",
     "Info/CV.md",
+    "Andrés Castellanos.png",
     "_posts/2022-07-05-.md",
+    "_posts/2022-07-06-.md",
+    "About me - Sobre mi.md",
     "_posts/2022-06-29-Story introducction.md",
     "Andrés Castellanos 1.png.md",
-    "Andrés Castellanos.png",
     "Andrés Castellanos 1.png",
     "README.md",
-    "Meta/Templates/NewBlogPost.md",
-    "_posts/2022-06-28-.md"
+    "Meta/Templates/NewBlogPost.md"
   ]
 }
