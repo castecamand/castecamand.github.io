@@ -13,7 +13,7 @@ En parte este blog es una manera para compartir estas historias y relatos, adema
 
 Pueden encontrarme también aquí:
 
-- Linkedin: https://www.linkedin.com/in/andrés-castellanos-camacho-6560771b1/
+- Linkedin: <https://www.linkedin.com/in/andrés-castellanos-camacho-6560771b1/>
 - Instagram: andrescastellanoscamacho
 
 ## Nice to meet you!
