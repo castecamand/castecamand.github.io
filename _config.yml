@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Andy's Blog (Provisional)
+title: El Archivo Mental / The Mental Archive
 email: castecamand@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This blog is my portfolio of short/long stories and poems for anyone interested. Hope you like them.
