@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proyectos/Juego VR - VR Game.md",
+            "file": "_posts/2022-07-06-Chapter 1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Juego VR - VR Game.md",
+                "file": "_posts/2022-07-06-Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +98,12 @@
   },
   "active": "018bdad4ab8f929a",
   "lastOpenFiles": [
+    "_posts/2022-07-06-Chapter 1.md",
+    "_posts/2022-06-29-Story introducction.md",
+    "Info/CV.md",
+    "_posts/2022-07-05-.md",
     "Proyectos/Juego VR - VR Game.md",
     "About me - Sobre mi.md",
-    "Info/CV.md",
-    "_posts/2022-06-29-Story introducction.md",
-    "_posts/2022-07-05-.md",
-    "_posts/2022-07-06-.md",
     "Meta/Templates/NewBlogPost.md",
     "Info/Proyectos.md",
     "Info/Proyectos 1.md",
